@@ -11,7 +11,7 @@
     <br><br>
     - 🌱 Language? Only Python (yep, I'm a noob at coding /sad)  
     <br><br>
-    - 🎉 [Welcome to my blog](https://seandictionary.top)
+    - 🎉 <a href="https://seandictionary.top">Welcome to my blog</a>
     <br><br>
   </div>
 </div>
