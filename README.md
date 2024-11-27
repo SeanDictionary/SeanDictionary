@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome To Noob's Profile 👋
 
-<!--
-**SeanDictionary/SeanDictionary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3D&lines=from%20WholeTheWorld%20import%20%2A" alt="Typing SVG" />
+  </a>
+  <div style="margin-left: 20px;">
+    - 🤔 Who am I: a noob at NJUPT trying to become an OIer and CTFer  
+    <br><br>
+    - 📕 What I'm learning: C++ for OI and Misc & Crypto for CTF  
+    <br><br>
+    - 🌱 Language? Only Python (yep, I'm a noob at coding /sad)  
+    <br><br>
+    - 🎉 [Welcome to my blog](https://seandictionary.top)
+    <br><br>
+  </div>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" />
+<img src="https://github-readme-stats.vercel.app/api/?username=SeanDictionary&theme=vue-dark" />
