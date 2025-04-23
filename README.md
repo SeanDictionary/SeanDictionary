@@ -22,4 +22,4 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" />
-<img src="https://github-readme-stats.vercel.app/api/?username=SeanDictionary&include_all_commits=true&theme=vue-dark" />
+<img src="https://github-readme-stats.vercel.app/api/?username=SeanDictionary&theme=vue-dark" />
