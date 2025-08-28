@@ -48,5 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://github.com/sagemath/sagemath.github.io/blob/594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="50" height="50"/>
 
 </p>
