@@ -33,7 +33,7 @@
 </div>
 
 
-<p><img width="450" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats.vercel.app/api/?username=SeanDictionary&theme=vue-dark" /></p>
+<p><img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&theme=vue-dark" /></p>
 
 <h3>🚀 Stacks</h3>
 
