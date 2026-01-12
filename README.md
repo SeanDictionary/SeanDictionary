@@ -15,7 +15,7 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <span style="font-weight: bold;">🤔 Who am I:</span>
-      <span>a noob at NJUPT trying to become an OIer and CTFer</span>
+      <span>a noob at NJUPT trying to become an CTFer</span>
     </li>
     <li>
       <span style="font-weight: bold;">📕 What I'm learning:</span>
@@ -38,6 +38,7 @@
 <h3>🚀 Stacks</h3>
 
 <p>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
@@ -48,6 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://github.com/sagemath/sagemath.github.io/blob/594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/sagemath/sagemath.github.io@594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="50" height="50"/>
 
 </p>
