@@ -15,15 +15,19 @@
   <ul style="list-style: none; padding: 0;">
     <li>
       <span style="font-weight: bold;">🤔 Who am I:</span>
-      <span>a noob at NJUPT trying to become an CTFer</span>
+      <span>a noob at NJUPT trying to become an excellent coder</span>
     </li>
     <li>
-      <span style="font-weight: bold;">📕 What I'm learning:</span>
-      <span>I'm now learning Python and JS, TS</span>
+      <span style="font-weight: bold;">📕 What I'm doing:</span>
+      <span>I'm now tring to make <a target="_blank" href="https://github.com/SeanDictionary/sage-lsp" style="text-decoration: none; color: #1e90ff;">SageMath</a> using more easily, so there are two repos I'm maintaining</span>
+      <ul>
+        <li><a target="_blank" href="https://github.com/SeanDictionary/sage-lsp" style="text-decoration: none; color: #1e90ff;">SageLSP</a></li>
+        <li><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=SeanDictionary.sagemath-for-vscode" style="text-decoration: none; color: #1e90ff;">SageMath for VScode</a></li>
+      </ul>
     </li>
     <li>
       <span style="font-weight: bold;">🌱 Language?</span>
-      <span>Only Python (yep, I'm a noob at coding <span style="color: #888;">/sad</span>)</span>
+      <span>Only Python (yep, I'm a noob at coding 😭)</span>
     </li>
     <li>
       <span style="font-weight: bold;">🎉</span>
@@ -33,7 +37,7 @@
 </div>
 
 
-<p><img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&theme=vue-dark" /></p>
+<p><img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /></p>
 
 <h3>🚀 Stacks</h3>
 
