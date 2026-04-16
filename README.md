@@ -39,13 +39,13 @@
 
 <p>
 
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" />
 
 </p>
 
 <p>
 
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" />
 
 </p>
 
