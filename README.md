@@ -37,22 +37,32 @@
 </div>
 
 
-<p><img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" /> <img width="450" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" /></p>
+<p>
+
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" />
+
+</p>
+
+<p>
+
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" />
+
+</p>
 
 <h3>🚀 Stacks</h3>
 
 <p>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/sagemath/sagemath.github.io@594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/sagemath/sagemath.github.io@594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="5%"/>
 
 </p>
