@@ -5,7 +5,6 @@
   <a href="https://wakatime.com/@04f2061d-8152-4c10-bfab-284bfc906fb4"><img src="https://wakatime.com/badge/user/04f2061d-8152-4c10-bfab-284bfc906fb4.svg" alt="Total time coded since Nov 28 2024" /> </a>
 </p>
 
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=480&separator=%3D&lines=from%20WholeTheWorld%20import%20%2A" alt="Typing SVG" />
 </a>
@@ -50,31 +49,14 @@
 </p>
 
 <h3>💻 Operating Systems</h3>
+
 <p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="5%"/>
-
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,kali&theme=light" alt="Operating systems" />
 </p>
 
 <h3>🚀 Stacks</h3>
 
 <p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sagemath/sagemath.github.io@594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="5%"/>
-
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,php,docker,git,latex,matlab,react,nodejs&theme=light" alt="Stacks" />
+  <img src="https://cdn.jsdelivr.net/gh/sagemath/sagemath.github.io@594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="48" height="48" alt="SageMath" />
 </p>
