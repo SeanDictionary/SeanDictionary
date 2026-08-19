@@ -38,7 +38,7 @@
 
 <p>
 
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanDictionary&layout=compact&theme=vue-dark" />
+  <a href="https://ghfind.com/u/seandictionary?ref=badge"><img src="https://ghfind.com/api/card/mini/seandictionary?theme=dark&lang=zh" alt="GitHub Roast 评分卡" width="50%" /></a>
 
 </p>
 
