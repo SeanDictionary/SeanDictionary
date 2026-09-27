@@ -38,7 +38,7 @@
 
 <p>
 
-  <img width="50%" src="https://link.sast.fun/v2/badge/0jM21tBCYNgqMpfntsZn5n5HrRKKot1dj5eMkf_Jd2k.svg?size=sm&theme=auto&target=blog"/>
+  <img width="30%" src="https://link.sast.fun/v2/badge/0jM21tBCYNgqMpfntsZn5n5HrRKKot1dj5eMkf_Jd2k.svg?size=sm&theme=auto&target=blog"/>
 
 </p>
 
