@@ -38,13 +38,13 @@
 
 <p>
 
-  <a href="https://ghfind.com/u/seandictionary?ref=badge"><img src="https://ghfind.com/api/card/mini/seandictionary?theme=dark&lang=zh" alt="GitHub Roast 评分卡" width="50%" /></a>
+  <img width="50%" src="https://link.sast.fun/v2/badge/0jM21tBCYNgqMpfntsZn5n5HrRKKot1dj5eMkf_Jd2k.svg?size=sm&theme=auto&target=blog"/>
 
 </p>
 
 <p>
 
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" />
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api?username=SeanDictionary&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" />
 
 </p>
 
