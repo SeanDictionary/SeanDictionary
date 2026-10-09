@@ -51,12 +51,12 @@
 <h3>💻 Operating Systems</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,kali&theme=light" alt="Operating systems" />
+  <img src="https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu,arch,kali,fedora" alt="Operating systems" />
 </p>
 
 <h3>🚀 Stacks</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,php,docker,git,latex,matlab,react,nodejs&theme=light" alt="Stacks" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,ts,js,css,html,php,docker,git,latex,matlab,react,nodejs" alt="Stacks" />
   <img src="https://cdn.jsdelivr.net/gh/sagemath/sagemath.github.io@594431521ab107e67cb5ae3db418016c2098e0a2/pix/icon_only/sagemath-icon.svg" width="48" height="48" alt="SageMath" />
 </p>
